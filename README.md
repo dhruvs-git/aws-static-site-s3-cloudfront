@@ -4,7 +4,7 @@
 
 A secure static website on AWS, fully provisioned with Terraform. No manual steps — `terraform apply` deploys both infrastructure and content in one command.
 
-![Architecture](./architecture-diagram.png)
+![Architecture](./Architecture_diagram.png)
 
 ---
 
@@ -65,4 +65,4 @@ terraform apply
 
 ---
 
-**Dhruv Barot** · [LinkedIn](https://linkedin.com/in/yourprofile) · [GitHub](https://github.com/dhruvs-git)
+**Dhruv Barot** · [LinkedIn](https://www.linkedin.com/in/dhruv-barot-bb71a3268/) · [GitHub](https://github.com/dhruvs-git)
