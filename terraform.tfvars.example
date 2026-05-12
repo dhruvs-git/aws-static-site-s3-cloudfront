@@ -1,0 +1,3 @@
+aws_region = "ca-central-1"
+
+s3_bucket_name = "your_bucket_name_goes_here"
