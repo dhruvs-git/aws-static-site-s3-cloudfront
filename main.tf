@@ -15,6 +15,7 @@ resource "aws_s3_object" "s3_file" {
   key    = "index.html"
   source = "./website/index.html"
   content_type = "text/html"
+  etag = filemd5("./website/index.html")
 }
 
 # Block all public access (cloudfront will access it privately)
