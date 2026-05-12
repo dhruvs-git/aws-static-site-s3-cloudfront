@@ -63,7 +63,7 @@ terraform apply
 
 **`aws_s3_object` instead of CLI upload** — File is managed by Terraform. If content changes, etag detection triggers automatic re-upload on next apply.
 
-![Website_preview](./Website.png)
+![Website_preview](./website.png)
 ---
 
 **Dhruv Barot** · [LinkedIn](https://www.linkedin.com/in/dhruv-barot-bb71a3268/) · [GitHub](https://github.com/dhruvs-git)
